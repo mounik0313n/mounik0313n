@@ -1,0 +1,35 @@
+# github-cool-readme settings
+# Docs: https://github.com/pedrocatalao/github-cool-readme
+
+show: [about, summary, languages, weekly]
+
+count:
+  private: false
+  orgs: false
+
+look:
+  style: classic
+  color: cyan
+  animations: true
+  background: none
+  border: false
+
+cards:
+  about:
+    title: About
+    headline: "Building *AI* and *data* systems"
+    lines:
+      - "AI & Data Engineering graduate"
+      - "Interested in applied AI, data platforms and backend systems"
+    facts:
+      Focus: "Data engineering · Applied AI"
+      Approach: "Architecture · Reliability · Iteration"
+  summary:
+    title: GitHub activity
+    ring: percent
+  languages:
+    title: Language activity
+    count: 6
+    other: true
+  weekly:
+    title: Weekly rhythm
